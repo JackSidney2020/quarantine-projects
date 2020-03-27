@@ -1,1 +1,1 @@
-#projects
+#projects during quarantine to learn Python
